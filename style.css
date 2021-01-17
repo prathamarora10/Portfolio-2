@@ -1,0 +1,40 @@
+.header
+{
+    background-color: #00eaff;
+    border-radius: 50px;
+    display:flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.heading
+{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.des
+{
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.Animal
+{
+    background-color: #F6CBA4;
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.Pet
+{
+    background-color: white;
+    border-radius: 10px; 
+    margin: 10px; 
+}
